@@ -16,7 +16,6 @@
   - https://gravity-breakout.herokuapp.com/
   - JavaScriptのゲームエンジenchant.jsを使ったアプリケーションで、スマートフォンなどの重力加速度を用いてパドルを動かせるようにしました。
 - KTP(関東とっておきプロジェクト)
-  - https://kanto.dev
   - 現在は非公開ですが、学部3年次のチーム横断実習(チームプロジェクト)で作成しました。オリンピック時の外国人渡航者に和の「体験」をしやすいように情報をまとめました。スケジュール管理から開発まで担い、全体的にプロジェクトの中心で活動していました。PythonのWebフレームワークであるDjangoを利用して開発しました。
 - Quiz and Treasures
   - https://qtre.herokuapp.com/
